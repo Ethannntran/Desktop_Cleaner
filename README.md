@@ -16,9 +16,9 @@ Wanted to share a script I’ve put together to help organizing files from any f
 🧰 Tech Stack:
 - Built using Python’s standard libraries: os, shutil, and tkinter (no external dependencies).
 - Cross-platform compatible (works on both Windows and macOS/Linux).
-- If you download it for MacOs or Linux, unzip "Desktop_Cleaner_MacOS_Linux" from the provided link, and follow these steps: 
-
-- Go to System Settings < Privacy and Security < Allow the .app to run 
+- If you download it for MacOs or Linux, unzip "Desktop_Cleaner.zip" from the provided link, and follow these steps: 
+   - Go to System Settings < Privacy and Security < Allow the .app to run
+- if you download for Windows, "Desktop_cleaner.exe", simply just run it. 
 
 📋 Extras:
 - There’s a live activity log in the app window showing which files were moved and where.
