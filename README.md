@@ -3,6 +3,10 @@
 Python Project - Desktop Cleaner
 
 Wanted to share a script I’ve put together to help organizing files from any folder locally on your system. Here's where to download it.
+
+
+- Desktop_Cleaner.exe is for windows
+- Desktop_Cleaner.zip is for MacOs and Linux
  
 🗂 What it Does:
 - This Python script provides a simple desktop GUI that lets you select any folder and automatically sorts its files into categorized folders — Audio, Video, Images, Documents, and Others — all created on your desktop.
